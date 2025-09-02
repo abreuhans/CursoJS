@@ -1,2 +1,2 @@
 # CursoJS
-Curso de JavaScript do Curso em Vídeo
+Exercícios e Projetos do curso de JavaScript do Curso em Vídeo
